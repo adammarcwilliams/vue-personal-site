@@ -13,7 +13,7 @@
 import TitleCard from './components/TitleCard'
 import NavLinks from './components/NavLinks'
 import SocialLinks from './components/SocialLinks'
-import ThreeWrapper from './components/ThreeWrapper'
+import ThreeWrapper from './components/ThreeWrapper/ThreeWrapper'
 
 export default {
   name: 'App',
